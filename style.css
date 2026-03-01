@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #e0b35f, #7b36c0);
+}
+
+.container {
+    width: 400px;
+    padding: 25px;
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    background: rgba(207, 200, 195, 0.1);
+    box-shadow: 0 8px 32px rgba(223, 66, 144, 0.692);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+.input-section {
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+button {
+    padding: 8px 12px;
+    border-radius: 10px;
+    border: none;
+    background: #ffffff;
+    color: #764ba2;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.08);
+}
+
+.filters {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    padding: 0;
+    margin-top: 20px;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background: rgba(255,255,255,0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    animation: fadeIn 0.3s ease-in;
+    transition: 0.3s;
+}
+
+li:hover {
+    transform: translateX(5px);
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+
+.delete-btn {
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.delete-btn:hover {
+    color: #ff4d4d;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.status {
+    margin-top: 15px;
+    font-size: 14px;
+    margin-left: 40px;
+    
+}
+
+p{color: white;}
+
+
+
+.dark-mode {
+    background: linear-gradient(135deg, #141e30, #243b55);
+}
+
+.dark-mode .container {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode button {
+    background: #333;
+    color: white;
+}
