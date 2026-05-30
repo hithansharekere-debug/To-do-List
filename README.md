@@ -32,7 +32,7 @@ Through this project, I gained hands-on experience with:
 
 The primary goal of this project was to strengthen my understanding of core web development concepts and build a solid foundation before moving on to more advanced projects and frameworks.
 
-## 🔧 Future Improvements
+##  Future Improvements
 
 Some features I plan to add in future versions:
 
