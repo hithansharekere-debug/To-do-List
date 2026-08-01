@@ -70,5 +70,3 @@ As a beginner developer, I'm continuously learning and improving. Feedback, sugg
 This project is open source and available for learning, experimentation, and personal use.
 
 ---
-
- If you found this project interesting, consider giving it a star and following my development journey.
