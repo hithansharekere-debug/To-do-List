@@ -39,7 +39,6 @@ Some features I plan to add in future versions:
 * Task persistence using Local Storage
 * Task categories and priorities
 * Due dates and reminders
-* Dark mode
 * Edit existing tasks
 * Search and filter functionality
 
