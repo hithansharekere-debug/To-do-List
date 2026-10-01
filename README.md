@@ -10,7 +10,7 @@ A simple and beginner-friendly To-Do List application built using **HTML**, **CS
 * Clean and responsive user interface
 * Real-time task management without page reloads
 
-## Technologies Used
+## Technologies Used To build the project 
 
 * **HTML5** – Structure and content
 * **CSS3** – Styling and layout
