@@ -62,7 +62,7 @@ No additional dependencies or installation steps are required.
 
 ## Feedback
 
-As a beginner developer, I'm continuously learning and improving. Feedback, suggestions, and constructive criticism are always welcome.
+As a beginner developer, I'm continuously learning and improving. Feedback, suggestions, and constructive criticism are always welcome. Please do suggest better ideas and methods.
 
 ## License
 
