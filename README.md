@@ -50,7 +50,7 @@ Some features I plan to add in future versions:
    git clone <repository-url>
    ```
 
-2. Navigate to the project folder:
+2. Navigate to project folder:
 
    ```bash
    cd todo-list
